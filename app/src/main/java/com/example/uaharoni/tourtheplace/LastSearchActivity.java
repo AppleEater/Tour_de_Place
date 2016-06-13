@@ -69,7 +69,7 @@ public class LastSearchActivity extends AppCompatActivity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_last_search, menu);
+        getMenuInflater().inflate(R.menu.menu_common, menu);
         return true;
     }
 
