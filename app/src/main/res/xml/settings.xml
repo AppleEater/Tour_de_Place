@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceCategory android:title="Search Preferences" android:icon="@android:drawable/ic_menu_search">
+    <SwitchPreference android:title="Display distance in "
+        android:key="Search Radius"
+        android:defaultValue="true"
+        android:summary="Choose distance measure"
+        android:text="Imperial or Standard"
+        />
+</PreferenceCategory>
+</PreferenceScreen>

@@ -1,4 +1,4 @@
-package com.example.uaharoni.tourtheplace;
+package com.example.uaharoni.tourtheplace.view;
 
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
@@ -18,6 +18,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import android.widget.TextView;
+
+import com.example.uaharoni.tourtheplace.R;
 
 public class LastSearchActivity extends AppCompatActivity {
 
